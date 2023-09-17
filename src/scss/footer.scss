@@ -1,0 +1,24 @@
+.footer-container {
+    width: 100%;
+    background-color: #253772;
+    min-height: 136px;
+
+    .footer-main-container {
+        margin: 0 auto;
+        max-width: 1110px;
+
+        .footer-top-menu {
+            padding-left: 0;
+            display: flex;
+            list-style: none;
+
+            li a {
+                margin-right: 35px;
+                font-size: 16px;
+                color: #f3fbfd;
+                line-height: 24px;
+
+            }
+        }
+    }
+}
