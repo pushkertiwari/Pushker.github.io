@@ -1,0 +1,15 @@
+.MuiToolbar-root {
+    background-color: #253772;
+
+    .titleTypo {
+        color: #f3fbfd;
+    }
+
+    .headerTypo {
+        color: #f3fbfd;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
