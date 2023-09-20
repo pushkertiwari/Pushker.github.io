@@ -4,3 +4,7 @@
 export type DataType = {
   [key: string]: string;
 };
+
+export type isLoaderType = {
+  loading: boolean
+}
